@@ -1,6 +1,6 @@
-token= NTEwMTk0OTQwMzgzMzMwMzE1.Dsix1w.3m3mmVNSbvlAibUhrrQMwxMBiJ8
-owner= 514114378384015372
-prefix= D
-game= Type Dhelp
+token= NTE2MzIzOTE2NDk5OTEwNjU2.Dtx_yA.8zv8oZHjGter3Z-yWadqqLR6Ra4
+owner= 271753503976849408
+prefix= Da
+game= Type Daplay
 stayinchannel=true 
 songinstatus=false 
